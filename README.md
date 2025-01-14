@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ola! Seja bem vindo ao meu GitHub 👋
 
 <!--
 **ricardoferreira-spec/ricardoferreira-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
